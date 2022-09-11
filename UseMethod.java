@@ -1,7 +1,7 @@
 class UseMethod 
 {
 	
-	void print()
+	public void print()
 	{
 		System.out.println("first method program");
 	}
